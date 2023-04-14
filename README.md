@@ -13,7 +13,7 @@ Autocad Project
 
 ## **Floor Plan with Fittings & Fixtures**
 <br>
-<p>
+<p align="center">
    <img src="./g_floor_plan.jpg" width="300" height="400"/>
    <img src="./t_floor_plan.jpg" width="300" height="400"/>
 </p>
@@ -25,7 +25,7 @@ Autocad Project
 
 ## **Conduit**
 <br>
-<p>
+<p align="center">
    <img src="./g_conduit.jpg" width="300" height="400"/>
    <img src="./t_conduit.jpg" width="300" height="400"/>
 </p>
@@ -35,7 +35,7 @@ Autocad Project
 
 ## **Wire Rating & Legends**
 <br>
-<p>
+<p align="center">
    <img src="./fixture_legends.jpg" width="300" height="400"/>
    <img src="./wire_rating.jpg" width="300" height="400"/>
 </p>
@@ -45,7 +45,7 @@ Autocad Project
 
 ## **Switch Board (SB) Diagram**
 <br>
-<p>
+<p align="center">
    <img src="./g_SB.jpg" width="300" height="300"/>
    <img src="./t_SB.jpg" width="300" height="300"/>
 </p>
@@ -55,7 +55,7 @@ Autocad Project
 
 ## **Sub Distribution Board (SDB) Diagram**
 <br>
-<p>
+<p align="center">
    <img src="./g_SDB.jpg" width="300" height="300"/>
    <img src="./t_SDB.jpg" width="300" height="300"/>
 </p>
@@ -65,7 +65,7 @@ Autocad Project
 
 ## **Emergency & Main Distribution Board (MDB)**
 <br>
-<p>
+<p align="center">
    <img src="./EMDB.jpg" width="300" height="200"/>
    <img src="./MDB.jpg" width="300" height="200"/>
 </p>
